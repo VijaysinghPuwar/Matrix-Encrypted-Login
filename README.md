@@ -1,4 +1,4 @@
-```markdown
+
 # Matrix-Themed Encrypted Login (Tkinter)
 
 A **Python** desktop application that manages **encrypted user credentials** with a **Matrix-like** animated background.  
